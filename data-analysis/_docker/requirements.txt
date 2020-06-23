@@ -1,0 +1,6 @@
+pandas
+ipywidgets
+matplotlib
+seaborn
+plotly==3.7.1
+PyQt5
