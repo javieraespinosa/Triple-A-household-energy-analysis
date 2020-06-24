@@ -14,7 +14,7 @@ The dashboard uses data collected from a house in the north of France during 1-y
 * gas
 * indoor/outdoor temperatures
 
-The raw dataset is available at the [Triple-A-household-energy-dataset](https://github.com/javieraespinosa/Triple-A-household-energy-dataset) repository.
+The raw dataset is available at the [Triple-A-household-energy-dataset](https://github.com/javieraespinosa/Triple-A-household-energy-dataset) repository. A copy is also available inside the [data-preparation/notebooks/data/original](./data-preparation/notebooks/data/original) folder.
 
 ## Data Preparation
 
