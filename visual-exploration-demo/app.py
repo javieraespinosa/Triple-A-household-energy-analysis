@@ -9,7 +9,7 @@ import numpy as np
 import pandas as pd
 import json
 import re
-
+import os
 
 
 def MDfy(obj):
@@ -275,4 +275,5 @@ def update_heatmap(slider_values, figure):
 # Main
 # --------------------------------
 if __name__ == '__main__':
-    app.run_server(host='0.0.0.0', debug=False)
+    port = os.getenv('PORT', '8050')
+    app.run_server(host='0.0.0.0', port=port, debug=False)
