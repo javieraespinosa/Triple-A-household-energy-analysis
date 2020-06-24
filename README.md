@@ -10,9 +10,10 @@ Triple-A: Analysis and Visual Exploration of Households' Energy Consumption
 
 The dashboard uses data collected from a house in the north of France during 1-year. The dataset is composed of measurements from 4 sensors:
 
-* electricity 
+* electricity (kWh)
 * gas
-* indoor/outdoor temperatures
+* indoor/outdoor temperature (°C) 
+* indoor/outdoor relative humidity (%)
 
 The raw dataset is available at the [Triple-A-household-energy-dataset](https://github.com/javieraespinosa/Triple-A-household-energy-dataset) repository. A copy is also available inside the [data-preparation/notebooks/data/original](./data-preparation/notebooks/data/original) folder.
 
