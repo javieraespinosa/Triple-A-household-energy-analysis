@@ -5,7 +5,7 @@ Triple-A: Analysis and Visual Exploration of Households' Energy Consumption
 
 [Triple-A](http://triple-a-interreg.eu) is a EU-INTERREG project aiming at reducing CO2 emissions in cities by generating awareness in homeowners about households carbon footprint. This repository contains an interactive dashboard developped in the context of Triple-A intented to show homeowners their **energy consumption patterns** through time.
 
-Demo at [https://triple-a-demo.herokuapp.com](https://triple-a-demo.herokuapp.com/)
+Demo available at [https://triple-a-demo.herokuapp.com](https://triple-a-demo.herokuapp.com/).
 
 
 ## Dataset
